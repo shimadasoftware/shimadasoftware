@@ -68,6 +68,9 @@
 <p align="left"> 
           <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>           </a> 
+          <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="linux" width="40" height="40"/>
+          </a> 
           <a href="https://www.microsoft.com/es-co/windows?r=1" target="_blank" rel="noreferrer"> 
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>           </a> 
 </p>
@@ -100,6 +103,10 @@
           <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
                     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
           </a> 
+          <a href="https://www.canva.com/es_419/" target="_blank" rel="noreferrer"> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="linux" width="40" height="40"/>
+          </a> 
+          
 </p>
 <h4>🤖 Electronics</h3> 
 <p align="left"> 
