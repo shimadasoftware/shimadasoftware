@@ -28,7 +28,7 @@
                     </a> 
           </p>
           
-<h4>💻 Databases</h4> 
+<h4>🗄️ Databases</h4> 
           <p align="left"> 
                     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
                               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -41,7 +41,7 @@
                     </a> 
           </p>
 
-<h4>💻 Machine Learning</h4> 
+<h4>🧠 Artificial Intelligence</h4> 
           <p align="left">          
                     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
                               <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
@@ -64,7 +64,7 @@
           </p>
 
 
-<h4>💻 Operating Systems</h4>  
+<h4>🖥️ Operating Systems</h4>  
 <p align="left"> 
           <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>           </a> 
@@ -72,21 +72,21 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>           </a> 
 </p>
 
-<h4>💻 Cloud Technologies</h3> 
+<h4>☁️ Cloud Technologies</h3> 
 <p align="left"> 
           <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
           </a> 
 </p>
 
-<h4>💻 Game Engines</h4> 
+<h4>🎮 Game Engines</h4> 
 <p align="left"> 
           <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
                     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
           </a> 
 </p>
 
-<h4>💻 Software</h4> 
+<h4>⚙️ Software</h4> 
 <p align="left"> 
           <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
                     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
@@ -101,7 +101,7 @@
                     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
           </a> 
 </p>
-<h4>💻 Electronics</h3> 
+<h4>🤖 Electronics</h3> 
 <p align="left"> 
           <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
                     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
