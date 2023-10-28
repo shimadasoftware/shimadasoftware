@@ -2,8 +2,7 @@
 ## I'm Juana Valentina Mendoza Santamaría 
 **Software Engineer 👩🏻‍💻 | Data Science 📊 | Machine Learning 🖥️ | Python 🐍**
 
-![GitHub Banner](https://github.com/shimadasoftware/introducing_myself/assets/73977456/95aaaf6a-9b5f-47f0-a8c2-f31bfbb7fd97)
-
+![GitHub Banner](https://github.com/shimadasoftware/shimadasoftware/assets/73977456/486d0ae7-3f86-4ceb-acc4-30c06e003de1)
 
 ## Social Networks
 [![](https://img.shields.io/badge/Juana%20Valentina%20Mendoza%20Santamar%C3%ADa-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanavmendozas) 
